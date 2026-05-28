@@ -94,7 +94,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![screenshot](Desktop/4.png)
+![screenshot](Desktop/4a.png)
 
 
 # RESULT:
